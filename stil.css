@@ -1,0 +1,90 @@
+h1 {
+	font-family: "HanaGorscak";
+	src: url("hanagorscak.ttf");
+	color: DarkSlateGray;
+	font-size: 50px;
+}
+h2 {
+	font-family: Constantia, "Lucida Bright", "DeyaVu Serif", Georgia, "Serif";
+	color: dimgray;
+}
+h3 {
+	font-family: Constantia, "Lucida Bright", "DeyaVu Serif", Georgia, "Serif";
+	color: dimgray;
+	font-size: 18px;
+}
+h4 { 
+    font-family: Constantia, "Lucida Bright", "DeyaVu Serif", Georgia, "Serif";
+	color: dimgray;
+	font-size: 50px;
+}
+p {
+	font-family: Constantia, "Lucida Bright", "DeyaVu Serif", Georgia, "Serif";
+	color: DarkSlateGray;
+	font-size: 16px;
+    line-height: 18px;
+    width: 600px;
+    background-color: WhiteSmoke;
+    padding: 30px;
+}
+.paragraf {color: DarkSlateGray; background-color: WhiteSmoke;}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 10px;
+	margin: 1px;
+	width: 620px;
+ 
+}
+
+a{
+	color: black;
+	background-color: WhiteSmoke;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover{
+	background-color: dimgray;
+}
+.pozadina {
+	background-image: url("https://www.shutterstock.com/shutterstock/photos/1500765701/display_1500/stock-photo-light-gray-low-contrast-texture-old-stained-paper-wallpaper-for-design-work-with-copy-space-1500765701.jpg");
+}
+img {
+	height: 200px;
+}
+ul {
+		padding:5px; 
+		margin-left: auto; 
+		margin-right: auto;  
+		width: 600px;
+			} 
+	li {	display: inline; 
+			background-color: Gainsboro;
+			padding:20px;
+			border:2px solid #696969;
+		}
+li:active {background-color: WhiteSmoke;} 
+		
+	li a {	color: DarkSlateGray; 
+			font-family: "CabinSketch", sans-serif; 
+			text-transform: uppercase;
+			}
+	li a:link {text-decoration:none;}
+	li a:hover {text-decoration:underline;}
+
+.drugapozadina {
+	background-color: Lavender;
+}
+.trecapozadina {
+	background-image: url("https://wallpapers.com/images/hd/white-pastel-8kgg4q470wnbyz3x.jpg");
+}
+.novi_blok1 {
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	margin: 1px;
+	width: 100%;
+}
+
+	
+	
+
